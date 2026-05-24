@@ -4,11 +4,6 @@
 
 Working on [**agentgate**](https://github.com/venkateswarisudalai/agentgate) — a gateway layer for AI agents.
 
-Contributing to AI security open-source at [@websentry-ai](https://github.com/websentry-ai):
-
-- [**oacb**](https://github.com/websentry-ai/oacb) — Open Autonomous Coding-agent Baseline. Security framework for Claude Code in autonomous mode. OWASP ASI 2026 + MITRE ATLAS mapped.
-- [**unbound-mcp-security-test**](https://github.com/websentry-ai/unbound-mcp-security-test) — MCP context-poisoning simulation. Stress-tests AI gateways against prompt injection.
-
 ### Recent ships
 
 | Project | What it is |
