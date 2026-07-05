@@ -14,9 +14,6 @@ Working on [**agentgate**](https://github.com/venkateswarisudalai/agentgate) —
 | [guardkeeper](https://github.com/venkateswarisudalai/guardkeeper) | Local-first attendance + salary tracker for security-guard companies |
 | [linkedin-outreach](https://github.com/venkateswarisudalai/linkedin-outreach) | Tauri + Chrome extension. Manual cold outreach. No automation. No cookies. |
 
-### What I think about
-
-Most of the AI security conversation is built on fear. I think guardrails are what let you *move* — not what slows you down.
 
 I write about that on [LinkedIn](https://www.linkedin.com/in/venkateswari-sudalai-371a77bb/).
 
